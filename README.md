@@ -39,7 +39,7 @@
 1. Install Stylus extension for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
 
 2. Then install with Stylus (click on the link):
-  - [Catppuccin for YouTube](src/catppuccin.user.css?raw=1)
+  - [Catppuccin for Ecosia](src/catppuccin.user.css?raw=1)
 
 3. Choose Your Theme, accent color, subscribe and join buttons by Setting Theme in Stylus Options
 
