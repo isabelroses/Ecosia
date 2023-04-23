@@ -1,8 +1,8 @@
 /* ==UserStyle==
 
 @name           Ecosia Catppuccin
-@namespace      github.com/catppuccin/ecosia
-@homepageURL    https://github.com/catppuccin/ecosia
+@namespace      github.com/catppuccin/mastodon
+@homepageURL    https://github.com/catppuccin/mastodon
 @version        0.1.0
 @description    Soothing pastel theme for Ecosia
 @author         Catppuccin
@@ -15,7 +15,6 @@
 ==/UserStyle== */
 
 @-moz-document domain("ecosia.org") {
-
   :root {
     #catppuccin(@lightTheme, @accentColour);
   }
@@ -224,7 +223,7 @@
 
     /* seach page */
     --color-above-fold-background: @surface0 !important;
-    --color-above-fold-background-addon: @surface1 !important;
+    --color-above-fold-background-addon: @overlay1 !important;
     --color-above-fold-text: @text !important;
     --color-section-wrapper-background-gray: @surface1 !important;
     --color-section-wrapper-background-dark-green: @surface0 !important;
